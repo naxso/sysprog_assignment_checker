@@ -1,0 +1,119 @@
+
+Grading submission: Assignment #1_2020320133_attempt_2024-10-07-17-10-48_Assignment1_ 2020320133.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022320072_attempt_2024-10-07-23-34-17_Assignment1_2022320072.zip
+Problem_1 Test Case 1: PASS (Time: 0.50s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_3 Test Case 1: PASS (Time: 0.39s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2023320012_attempt_2024-10-07-21-24-39_Assignment1_2023320012.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: FAIL
+Expected (ignoring whitespace): F
+Actual (with whitespace):
+D0
+
+Actual (ignoring whitespace): D0
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.44s)
+Problem_3 Test Case 1: FAIL
+Expected (ignoring whitespace): 1
+3 2
+Actual (with whitespace):
+0
+
+Actual (ignoring whitespace): 0
+Report file exists: PASS
+
+Grading submission: Assignment #1_2024952734_attempt_2024-10-07-23-51-27_Assignment1_2024952734.zip
+Problem_1 Test Case 1: PASS (Time: 0.68s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+Enter your input line by line ( Ctrl + D on Unix or Ctrl + Z on Windows to finish):
+3
+102
+2502
+
+Program { instructions: [Ok(Instruction { opcode: DUP, arg: None }), Ok(Instruction { opcode: MUL, arg: None }), Ok(Instruction { opcode: NUMX, arg: Some(2) }), Ok(Instruction { opcode: ADD, arg: None })], numbers: [Ok(1), Ok(10), Ok(50)] }
+ERROR
+42
+ERROR
+43
+
+Program { instructions: [Err(InvalidFormat), Ok(Instruction { opcode: NUMX, arg: Some(1) }), Ok(Instruction { opcode: NUMX, arg: Some(1) }), Ok(Instruction { opcode: ADD, arg: None })], numbers: [Ok(42), Ok(43)] }
+ERROR
+0
+ERROR
+600000000
+ERROR
+1
+
+Program { instructions: [Err(InvalidFormat), Ok(Instruction { opcode: NUMX, arg: Some(600000000) }), Ok(Instruction { opcode: ADD, arg: None })], numbers: [Ok(0), Ok(600000000), Ok(1)] }
+
+Actual (ignoring whitespace): Enter your input line by line ( Ctrl + D on Unix or Ctrl + Z on Windows to finish):
+3
+102
+2502
+
+Program { instructions: [Ok(Instruction { opcode: DUP, arg: None }), Ok(Instruction { opcode: MUL, arg: None }), Ok(Instruction { opcode: NUMX, arg: Some(2) }), Ok(Instruction { opcode: ADD, arg: None })], numbers: [Ok(1), Ok(10), Ok(50)] }
+ERROR
+42
+ERROR
+43
+
+Program { instructions: [Err(InvalidFormat), Ok(Instruction { opcode: NUMX, arg: Some(1) }), Ok(Instruction { opcode: NUMX, arg: Some(1) }), Ok(Instruction { opcode: ADD, arg: None })], numbers: [Ok(42), Ok(43)] }
+ERROR
+0
+ERROR
+600000000
+ERROR
+1
+
+Program { instructions: [Err(InvalidFormat), Ok(Instruction { opcode: NUMX, arg: Some(600000000) }), Ok(Instruction { opcode: ADD, arg: None })], numbers: [Ok(0), Ok(600000000), Ok(1)] }
+Problem_3 Test Case 1: FAIL
+Expected (ignoring whitespace): 1
+3 2
+Actual (with whitespace):
+
+
+
+0
+
+Actual (ignoring whitespace): 0
+Report file exists: PASS

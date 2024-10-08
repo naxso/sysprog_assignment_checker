@@ -1,0 +1,1512 @@
+
+Grading submission: Assignment #1_2011190709_attempt_2024-09-30-15-12-46_Assignment1_2011190709.zip
+Problem_1 Test Case 1: PASS (Time: 0.52s)
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (whitespace differences only) (Time: 0.54s)
+Problem_3 Test Case 1: PASS (whitespace differences only) (Time: 0.34s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2014120299_attempt_2024-10-06-23-58-38_Assign_1_2014120299.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2014120299_attempt_2024-10-06-23-58-38_Report_1_2014120299.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2016320116_attempt_2024-10-06-23-10-12_Assignment1_2016320116.zip
+Problem_1 Test Case 1: PASS (Time: 0.49s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.55s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2017170337_attempt_2024-10-06-23-18-11_Assignment1_2017170337.zip
+Problem_1 Test Case 1: PASS (Time: 0.42s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2018140572_attempt_2024-10-05-16-23-38_Assignment1_2018140572.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+
+3
+102
+2502
+
+
+ERROR
+ERROR
+ERROR
+ERROR
+
+
+ERROR
+600000000
+ERROR
+ERROR
+ERROR
+600000001
+
+
+Actual (ignoring whitespace): 3
+102
+2502
+
+
+ERROR
+ERROR
+ERROR
+ERROR
+
+
+ERROR
+600000000
+ERROR
+ERROR
+ERROR
+600000001
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2018190714_attempt_2024-10-06-04-53-53_Assignment1_2018190714.zip
+Problem_1 Test Case 1: PASS (Time: 0.45s)
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.40s)
+Problem_3 Test Case 1: PASS (Time: 0.39s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2018320166_attempt_2024-10-01-18-12-06_Assignment1_2018320166.zip
+Problem_1 Test Case 1: PASS (Time: 0.53s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.61s)
+Error running cargo for Problem_3: Command '['cargo', 'run']' returned non-zero exit status 101.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019140415_attempt_2024-10-02-20-31-17_Assignment1_2019140415.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.33s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2019160044_attempt_2024-10-06-22-42-08_Assignment1_2019160044.zip
+Problem_1 Test Case 1: PASS (Time: 0.23s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.45s)
+Problem_3 Test Case 1: PASS (Time: 0.23s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320012_attempt_2024-10-06-14-48-25_Assignment1_2019320012.zip
+Problem_1 Test Case 1: FAIL
+Expected (ignoring whitespace): A+
+Actual (with whitespace):
+2.6 3.59
+2.9 3.59
+3 3.59
+3.1 3.59
+3.2 3.59
+3.3 3.59
+3.4 3.59
+3.5 3.59
+3.6 3.59
+A+
+
+Actual (ignoring whitespace): 2.6 3.59
+2.9 3.59
+3 3.59
+3.1 3.59
+3.2 3.59
+3.3 3.59
+3.4 3.59
+3.5 3.59
+3.6 3.59
+A+
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+4.1 4.44
+4.2 4.44
+4.2 4.44
+4.3 4.44
+4.3 4.44
+4.4 4.44
+4.4 4.44
+4.5 4.44
+A0
+
+Actual (ignoring whitespace): 4.1 4.44
+4.2 4.44
+4.2 4.44
+4.3 4.44
+4.3 4.44
+4.4 4.44
+4.4 4.44
+4.5 4.44
+A0
+Problem_1 Test Case 3: FAIL
+Expected (ignoring whitespace): F
+Actual (with whitespace):
+2.6 2.54
+F
+
+Actual (ignoring whitespace): 2.6 2.54
+F
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+2.6 3.6
+2.9 3.6
+3 3.6
+3.1 3.6
+3.2 3.6
+3.3 3.6
+3.4 3.6
+3.5 3.6
+3.6 3.6
+impossible
+
+Actual (ignoring whitespace): 2.6 3.6
+2.9 3.6
+3 3.6
+3.1 3.6
+3.2 3.6
+3.3 3.6
+3.4 3.6
+3.5 3.6
+3.6 3.6
+impossible
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320020_attempt_2024-10-06-23-19-17_Assignment1_2019320020.zip
+Warning: Missing folder Problem_3
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+ERROR
+ERROR
+600000000
+ERROR
+600000001
+
+Actual (ignoring whitespace): 3
+102
+2502
+ERROR
+ERROR
+600000000
+ERROR
+600000001
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320034_attempt_2024-10-06-23-31-09_Assignment1_2019320034.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2019320038_attempt_2024-10-06-23-50-03_Assignment1_2019320038.zip
+Problem_1 Test Case 1: PASS (Time: 0.39s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+ERROR
+ERROR
+600000000
+ERROR
+600000001
+
+Actual (ignoring whitespace): 3
+102
+2502
+ERROR
+ERROR
+600000000
+ERROR
+600000001
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320044_attempt_2024-10-05-20-21-14_Assignment1_ 2019320044.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.53s)
+Problem_3 Test Case 1: PASS (Time: 0.33s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320061_attempt_2024-10-02-03-37-01_Assignment1_ 2019320061.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: FAIL (Time limit exceeded)
+Problem_3 Test Case 1: PASS (Time: 0.35s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320072_attempt_2024-10-05-22-03-37_Assignment1_2019320072.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.35s)
+Problem_3 Test Case 1: PASS (Time: 0.34s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320088_attempt_2024-10-06-17-13-54_Assignment1_2019320088.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.54s)
+Error running cargo for Problem_3: Command '['cargo', 'run']' returned non-zero exit status 101.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320113_attempt_2024-10-06-23-41-55_Assignment1_ 2019320113.zip
+Problem_1 Test Case 1: PASS (Time: 0.35s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.04s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.38s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320120_attempt_2024-10-06-21-42-28_Assignment1_2019320120.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2019320124_attempt_2024-10-06-22-33-30_Assignment1_2019320124.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2019320134_attempt_2024-10-06-22-36-12_Assignment1_2019320134.zip
+Problem_1 Test Case 1: PASS (Time: 0.39s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.50s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020190258_attempt_2024-10-06-23-58-29_Assignment1_2020190258.zip
+Problem_1 Test Case 1: PASS (Time: 0.38s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.41s)
+Problem_3 Test Case 1: FAIL
+Expected (ignoring whitespace): 1
+3 2
+Actual (with whitespace):
+
+Actual (ignoring whitespace): 
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020270634_attempt_2024-10-06-17-50-09_Assignment1_2020270634.zip
+Problem_1 Test Case 1: FAIL (Time limit exceeded)
+Problem_1 Test Case 2: FAIL (Time limit exceeded)
+Problem_1 Test Case 3: PASS (Time: 0.53s)
+Problem_1 Test Case 4: PASS (Time: 0.08s)
+Problem_2 Test Case 1: PASS (whitespace differences only) (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.31s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320003_attempt_2024-10-06-02-18-05_Assignment1_2020320003.zip
+Problem_1 Test Case 1: PASS (Time: 0.32s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.04s)
+Problem_2 Test Case 1: PASS (Time: 0.43s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2020320005_attempt_2024-10-06-11-25-00_Assignment1_2020320005.zip
+Warning: Missing folder Problem_3
+Problem_1 Test Case 1: PASS (Time: 0.32s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 3221225725.
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320026_attempt_2024-10-06-18-36-58_Assignment1_2020320026.zip
+Problem_1 Test Case 1: PASS (Time: 0.41s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.39s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320043_attempt_2024-10-06-13-26-48_Assignment1_ 2020320043.zip
+Problem_1 Test Case 1: PASS (Time: 0.39s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.41s)
+Problem_3 Test Case 1: PASS (Time: 0.35s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320046_attempt_2024-09-28-23-50-35_Assignment1_2020320046.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.37s)
+Problem_3 Test Case 1: PASS (Time: 0.34s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320047_attempt_2024-10-06-20-10-23_Assignment1_2020320047.zip
+Problem_1 Test Case 1: PASS (Time: 0.21s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.49s)
+Problem_3 Test Case 1: PASS (Time: 0.21s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320052_attempt_2024-10-06-00-07-09_Assignment1_2020320052.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+ 
+ERROR
+ERROR
+ 
+600000000
+ERROR
+600000001
+ 
+
+Actual (ignoring whitespace): 3
+102
+2502
+ 
+ERROR
+ERROR
+ 
+600000000
+ERROR
+600000001
+Problem_3 Test Case 1: PASS (Time: 0.48s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320054_attempt_2024-10-06-23-58-57_Assignment1_2020320054.zip
+Warning: Missing folder Problem_3
+Problem_1 Test Case 1: PASS (Time: 0.21s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+error
+error
+error
+error
+error
+
+Actual (ignoring whitespace): 3
+102
+2502
+error
+error
+error
+error
+error
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2020320055_attempt_2024-10-06-23-59-28_Assignment1_2020320055.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2020320056_attempt_2024-10-06-15-33-50_Assignment1_2020320056.zip
+Problem_1 Test Case 1: PASS (Time: 0.22s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+
+ERROR
+42
+ERROR
+43
+
+ERROR
+0
+ERROR
+600000000
+ERROR
+1
+
+
+Actual (ignoring whitespace): 3
+102
+2502
+
+ERROR
+42
+ERROR
+43
+
+ERROR
+0
+ERROR
+600000000
+ERROR
+1
+Problem_3 Test Case 1: PASS (Time: 0.20s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320093_attempt_2024-10-01-15-22-03_Assignment1_2020320093.zip
+Problem_1 Test Case 1: PASS (Time: 0.42s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 3221225725.
+Problem_3 Test Case 1: PASS (Time: 0.35s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320098_attempt_2024-09-30-17-45-11_Assignment1_2020320098.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.49s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320099_attempt_2024-09-29-13-50-50_Assignment1_2020320099.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.04s)
+Problem_2 Test Case 1: PASS (Time: 0.42s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320112_attempt_2024-10-06-17-41-49_Assignment1_2020320112.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320117_attempt_2024-10-06-19-06-06_Assignment1_2020320117.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.54s)
+Problem_3 Test Case 1: FAIL
+Expected (ignoring whitespace): 1
+3 2
+Actual (with whitespace):
+Hello, world!
+
+Actual (ignoring whitespace): Hello, world!
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320119_attempt_2024-10-06-23-17-25_Assignment1_2020320119.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: FAIL (Time limit exceeded)
+Problem_3 Test Case 1: PASS (Time: 0.33s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320143_attempt_2024-10-06-16-51-01_Assignment1_2020320143.zip
+Problem_1 Test Case 1: PASS (Time: 0.33s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.40s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2020320149_attempt_2024-10-06-20-42-51_Assignment1_2020320149.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_3 Test Case 1: PASS (Time: 0.39s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021240122_attempt_2024-10-04-23-11-06_Assignment1_2021240122.zip
+Problem_1 Test Case 1: PASS (Time: 0.40s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.39s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021270111_attempt_2024-10-01-18-02-44_Assignment1_2021270111.zip
+Problem_1 Test Case 1: PASS (whitespace differences only) (Time: 0.21s)
+Problem_1 Test Case 2: PASS (whitespace differences only) (Time: 0.06s)
+Problem_1 Test Case 3: PASS (whitespace differences only) (Time: 0.05s)
+Problem_1 Test Case 4: PASS (whitespace differences only) (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.22s)
+Problem_3 Test Case 1: PASS (whitespace differences only) (Time: 0.22s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320009_attempt_2024-10-06-23-47-17_Assignment1_2021320009.zip
+Problem_1 Test Case 1: PASS (Time: 0.22s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.21s)
+Problem_3 Test Case 1: PASS (Time: 0.24s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2021320049_attempt_2024-10-06-23-24-22_Assignment1_2021320049.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2021320056_attempt_2024-09-29-15-42-26_Assignment1_2021320056.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2021320059_attempt_2024-10-06-16-03-44_Assignment1_2021320059.zip
+Problem_1 Test Case 1: FAIL (Time limit exceeded)
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_1 Test Case 3: PASS (Time: 0.08s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: FAIL (Time limit exceeded)
+Problem_3 Test Case 1: FAIL (Time limit exceeded)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320065_attempt_2024-10-06-20-38-21_Assignment1_2021320065.zip
+Problem_1 Test Case 1: PASS (Time: 0.38s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+
+
+ERROR
+ERROR
+
+
+600000000
+ERROR
+600000001
+
+
+
+Actual (ignoring whitespace): 3
+102
+2502
+
+
+ERROR
+ERROR
+
+
+600000000
+ERROR
+600000001
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320077_attempt_2024-10-06-23-34-40_Assignment1_2021320077.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+ 
+ERROR
+ERROR
+ 
+600000000
+ERROR
+600000001
+ 
+
+Actual (ignoring whitespace): 3
+102
+2502
+ 
+ERROR
+ERROR
+ 
+600000000
+ERROR
+600000001
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320083_attempt_2024-10-06-00-35-35_Assignment1_2021320083.zip
+Problem_1 Test Case 1: PASS (Time: 0.38s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (whitespace differences only) (Time: 0.57s)
+Problem_3 Test Case 1: PASS (Time: 0.38s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320087_attempt_2024-10-05-00-38-49_Assignment1_2021320087.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.38s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320092_attempt_2024-10-06-23-41-14_Assignment1_ 2021320092.zip
+Problem_1 Test Case 1: PASS (Time: 0.49s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.59s)
+Error running cargo for Problem_3: Command '['cargo', 'run']' returned non-zero exit status 101.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320108_attempt_2024-10-05-22-27-15_Assignment1_2021320108.zip
+Problem_1 Test Case 1: PASS (Time: 0.35s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.57s)
+Problem_3 Test Case 1: PASS (Time: 0.34s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320122_attempt_2024-10-06-23-53-31_Assignment01_2021320122.zip
+Problem_1 Test Case 1: PASS (Time: 0.24s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.35s)
+Problem_3 Test Case 1: PASS (Time: 0.23s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320133_attempt_2024-10-06-20-15-39_Assignment1_2021320133.zip
+Problem_1 Test Case 1: PASS (Time: 0.35s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.56s)
+Problem_3 Test Case 1: PASS (Time: 0.46s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320140_attempt_2024-10-04-00-07-45_Assignment1_ 2021320140.zip
+Problem_1 Test Case 1: PASS (Time: 0.24s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_3 Test Case 1: PASS (Time: 0.23s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320141_attempt_2024-10-06-23-44-32_Assignment1_2021320141.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2021320171_attempt_2024-10-06-14-22-48_Assignment1_2021320171.zip
+Problem_1 Test Case 1: PASS (Time: 0.26s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.23s)
+Problem_3 Test Case 1: PASS (Time: 0.24s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2021320311_attempt_2024-10-06-22-42-10_Assignment1_2021320311.zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.43s)
+Problem_3 Test Case 1: PASS (Time: 0.38s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022130828_attempt_2024-10-05-18-17-29_Assignment1_2022130828.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022250413_attempt_2024-10-05-18-52-02_Assignment1_2022250413.zip
+Problem_1 Test Case 1: PASS (Time: 0.46s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.61s)
+Problem_3 Test Case 1: PASS (Time: 0.48s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320004_attempt_2024-10-06-22-09-52_Assignment1_2022320004.zip
+Problem_1 Test Case 1: PASS (Time: 0.40s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.57s)
+Problem_3 Test Case 1: PASS (Time: 0.40s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320015_attempt_2024-10-03-14-30-57_Assignment1_2022320015.zip
+Error running cargo for Problem_1: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+
+Actual (ignoring whitespace): 
+Problem_3 Test Case 1: FAIL
+Expected (ignoring whitespace): 1
+3 2
+Actual (with whitespace):
+0000000000000000000
+0000000000000000000
+0120022210000000000
+0010000010000000000
+0001000000000000000
+0000100000000000000
+0011010000000000000
+0000002100000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+1
+3 2
+
+Actual (ignoring whitespace): 0000000000000000000
+0000000000000000000
+0120022210000000000
+0010000010000000000
+0001000000000000000
+0000100000000000000
+0011010000000000000
+0000002100000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+0000000000000000000
+1
+3 2
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320037_attempt_2024-10-06-23-27-23_Assignment1_2022320037.zip
+Problem_1 Test Case 1: PASS (Time: 0.50s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.08s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.61s)
+Problem_3 Test Case 1: PASS (Time: 0.35s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022320039_attempt_2024-10-06-22-53-50_Assignment1_2022320039.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022320047_attempt_2024-10-06-21-11-01_Assignment1_ 2022320047.zip
+Problem_1 Test Case 1: PASS (Time: 0.41s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (whitespace differences only) (Time: 0.49s)
+Problem_3 Test Case 1: PASS (Time: 0.42s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320057_attempt_2024-10-06-23-36-15_Assignment1_[2022320057].zip
+Problem_1 Test Case 1: PASS (Time: 0.34s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.38s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320060_attempt_2024-10-06-23-09-52_Assignment1_2022320060.zip
+Warning: Missing src/main.rs in Problem_1
+Warning: Missing src/main.rs in Problem_2
+Warning: Missing src/main.rs in Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320088_attempt_2024-10-06-23-57-23_Assignment1_2022320088.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.56s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320094_attempt_2024-10-06-17-27-30_Assignment1_2022320094.zip
+Problem_1 Test Case 1: PASS (Time: 0.44s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.59s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022320097_attempt_2024-10-06-22-24-49_Assignment1_2022320097.zip
+Problem_1 Test Case 1: PASS (Time: 0.39s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.68s)
+Problem_3 Test Case 1: PASS (Time: 0.42s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320101_attempt_2024-10-06-21-39-22_Assignment1_2022320101.zip
+Problem_1 Test Case 1: PASS (Time: 0.41s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.08s)
+Problem_2 Test Case 1: PASS (Time: 0.56s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320118_attempt_2024-10-06-22-18-48_Assignment1_2022320118.zip
+Problem_1 Test Case 1: PASS (Time: 0.44s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.56s)
+Problem_3 Test Case 1: PASS (Time: 0.56s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022320122_attempt_2024-10-06-21-48-28_Assignment1_ 2022320122.zip
+Problem_1 Test Case 1: PASS (Time: 0.22s)
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_1 Test Case 3: FAIL
+Expected (ignoring whitespace): F
+Actual (with whitespace):
+D0
+
+Actual (ignoring whitespace): D0
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.40s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320124_attempt_2024-10-06-02-55-05_Assignment1_2022320124.zip
+Problem_1 Test Case 1: PASS (Time: 0.38s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.40s)
+Problem_3 Test Case 1: PASS (Time: 0.36s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320129_attempt_2024-10-06-17-12-40_Assignment1_2022320129.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2022320142_attempt_2024-10-06-23-18-57_Assignment1_2022320142.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: PASS (Time: 0.05s)
+Problem_2 Test Case 1: PASS (Time: 0.39s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2022320170_attempt_2024-10-06-23-56-37_Assignment1_2022320170.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2023320049_attempt_2024-10-02-18-32-29_Assignment1_2023320049.zip
+Problem_1 Test Case 1: PASS (Time: 0.45s)
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_1 Test Case 3: FAIL
+Expected (ignoring whitespace): F
+Actual (with whitespace):
+D0
+
+Actual (ignoring whitespace): D0
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+3
+102
+2502
+ 
+ERROR
+ERROR
+ 
+600000000
+ERROR
+600000001
+ 
+
+Actual (ignoring whitespace): 3
+102
+2502
+ 
+ERROR
+ERROR
+ 
+600000000
+ERROR
+600000001
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2023320052_attempt_2024-10-06-11-22-57_Assignment1_2023320052.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.61s)
+Problem_3 Test Case 1: PASS (Time: 0.37s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2023320119_attempt_2024-10-06-02-21-57_Assignment1_2023320119.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.07s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.52s)
+Problem_3 Test Case 1: PASS (Time: 0.31s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2023320137_attempt_2024-10-05-11-58-48_Assignment1_2023320137.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Report file exists: PASS
+
+Grading submission: Assignment #1_2023320151_attempt_2024-10-06-20-22-47_Assignment1_2023320151.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.07s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 3221225725.
+Problem_3 Test Case 1: PASS (Time: 0.39s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2023320338_attempt_2024-10-06-16-41-12_Assignment1_2023320338.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2024952152_attempt_2024-10-05-19-04-35_Assignment1_2024952152.zip
+Problem_1 Test Case 1: FAIL
+Expected (ignoring whitespace): A+
+Actual (with whitespace):
+Start of program.
+
+Course: ["4", "A+"]
+Course: ["3", "B+"]
+Course: ["3", "C+"]
+Course: ["1", "D0"]
+A+
+
+Actual (ignoring whitespace): Start of program.
+
+Course: ["4", "A+"]
+Course: ["3", "B+"]
+Course: ["3", "C+"]
+Course: ["1", "D0"]
+A+
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+Start of program.
+
+Course: ["5", "A+"]
+Course: ["4", "A+"]
+A0
+
+Actual (ignoring whitespace): Start of program.
+
+Course: ["5", "A+"]
+Course: ["4", "A+"]
+A0
+Problem_1 Test Case 3: FAIL
+Expected (ignoring whitespace): F
+Actual (with whitespace):
+Start of program.
+
+Course: ["3", "B+"]
+Course: ["2", "B0"]
+Course: ["2", "C+"]
+Course: ["2", "C0"]
+F
+
+Actual (ignoring whitespace): Start of program.
+
+Course: ["3", "B+"]
+Course: ["2", "B0"]
+Course: ["2", "C+"]
+Course: ["2", "C0"]
+F
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+Start of program.
+
+Course: ["4", "A+"]
+Course: ["3", "B+"]
+Course: ["3", "C+"]
+Course: ["1", "D0"]
+impossible
+
+Actual (ignoring whitespace): Start of program.
+
+Course: ["4", "A+"]
+Course: ["3", "B+"]
+Course: ["3", "C+"]
+Course: ["1", "D0"]
+impossible
+Problem_2 Test Case 1: FAIL
+Expected (ignoring whitespace): 3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Actual (with whitespace):
+Start of program.
+
+3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+
+
+Actual (ignoring whitespace): Start of program.
+
+3
+102
+2502
+
+ERROR
+ERROR
+
+600000000
+ERROR
+600000001
+Problem_3 Test Case 1: FAIL
+Expected (ignoring whitespace): 1
+3 2
+Actual (with whitespace):
+Start of program.
+
+1
+3 2
+
+Actual (ignoring whitespace): Start of program.
+
+1
+3 2
+Report file exists: PASS
+
+Grading submission: Assignment #1_2024952436_attempt_2024-10-06-22-29-14_Assignment1_2024952436.zip
+Problem_1 Test Case 1: FAIL
+Expected (ignoring whitespace): A+
+Actual (with whitespace):
+Enter the number of courses and minimum GPA
+A+
+
+Actual (ignoring whitespace): Enter the number of courses and minimum GPA
+A+
+Problem_1 Test Case 2: FAIL
+Expected (ignoring whitespace): A0
+Actual (with whitespace):
+Enter the number of courses and minimum GPA
+A0
+
+Actual (ignoring whitespace): Enter the number of courses and minimum GPA
+A0
+Problem_1 Test Case 3: FAIL
+Expected (ignoring whitespace): F
+Actual (with whitespace):
+Enter the number of courses and minimum GPA
+F
+
+Actual (ignoring whitespace): Enter the number of courses and minimum GPA
+F
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+Enter the number of courses and minimum GPA
+A+
+
+Actual (ignoring whitespace): Enter the number of courses and minimum GPA
+A+
+Error running cargo for Problem_2: Command '['cargo', 'run']' returned non-zero exit status 101.
+Problem_3 Test Case 1: PASS (Time: 0.47s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2024952841_attempt_2024-10-05-18-14-12_Assignment1_2024952841.zip
+Problem_1 Test Case 1: PASS (Time: 0.56s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.05s)
+Problem_1 Test Case 4: PASS (Time: 0.07s)
+Problem_2 Test Case 1: PASS (Time: 0.37s)
+Problem_3 Test Case 1: PASS (Time: 0.35s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2024962079_attempt_2024-09-30-11-55-13_Assignment1_2024962079.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2024962131_attempt_2024-10-06-18-57-47_Assignment1_2024962131.zip
+Warning: Missing folder Problem_1
+Warning: Missing folder Problem_2
+Warning: Missing folder Problem_3
+Skipping Problem_1 due to missing files.
+Skipping Problem_2 due to missing files.
+Skipping Problem_3 due to missing files.
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2024962151_attempt_2024-10-06-03-03-12_Assignment1_2024962151.zip
+Problem_1 Test Case 1: PASS (Time: 0.36s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: FAIL
+Expected (ignoring whitespace): impossible
+Actual (with whitespace):
+A+
+
+Actual (ignoring whitespace): A+
+Problem_2 Test Case 1: PASS (Time: 0.44s)
+Problem_3 Test Case 1: PASS (Time: 0.32s)
+Report file exists: PASS
+
+Grading submission: Assignment #1_2024972019_attempt_2024-10-06-18-59-27_Assignment1_2024972019.zip
+Problem_1 Test Case 1: PASS (Time: 0.44s)
+Problem_1 Test Case 2: PASS (Time: 0.06s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.50s)
+Problem_3 Test Case 1: PASS (Time: 0.40s)
+Error: No PDF report found.
+Report file is missing: FAIL
+
+Grading submission: Assignment #1_2024ku0422_attempt_2024-10-06-16-10-33_Assignment1_2024KU0422.zip
+Problem_1 Test Case 1: PASS (Time: 0.37s)
+Problem_1 Test Case 2: PASS (Time: 0.05s)
+Problem_1 Test Case 3: PASS (Time: 0.06s)
+Problem_1 Test Case 4: PASS (Time: 0.06s)
+Problem_2 Test Case 1: PASS (Time: 0.38s)
+Problem_3 Test Case 1: PASS (Time: 0.38s)
+Report file exists: PASS
